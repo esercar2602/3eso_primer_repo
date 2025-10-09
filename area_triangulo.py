@@ -1,4 +1,4 @@
-base = 7.2
+base = float(input ("Introduce la base"))
 altura = 5.23
 
 area = base*altura/2
